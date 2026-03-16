@@ -25,7 +25,7 @@ Yazılım dünyasında kendimi geliştirmeye devam eden, özellikle **Python**, 
 
 ### 📊 GitHub İstatistiklerim
 
-| ![Genel İstatistikler](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=radical&hide_border=true) | ![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=radical&hide_border=true) |
+| ![Genel İstatistikler](https://github-readme-stats.vercel.app/api?username=mefee145&show_icons=true&theme=radical&hide_border=true) | ![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=mefee145&layout=compact&theme=radical&hide_border=true) |
 | :--- | :--- |
 
 ---
