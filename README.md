@@ -1,4 +1,4 @@
-# Selam! Ben [mefee145] 👋
+# Selam! Ben mefee145 ya da HebeleKedi 👋
 
 Yazılım dünyasında kendimi geliştirmeye devam eden, özellikle **Python** ve **Robotik Kodlama** konularına meraklı bir geliştiriciyim. Şu sıralar yeni teknolojiler öğrenmek ve projeler üretmekle meşgulüm.
 
